@@ -168,7 +168,7 @@ local WhiteList = {
 "viniciuszk70",
 "xCafe_x",
 "1_OnerK1ll",
-"1xCkjj"
+"1xCkkj"
 }
 
 for i,v in pairs(WhiteList) do
